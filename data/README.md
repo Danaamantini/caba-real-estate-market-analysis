@@ -1,5 +1,12 @@
 # Data
 
+## Dataset Source
+
+**Property Listings for 5 South American Countries**  
+Source: Properati Data, distributed through Kaggle by Rasmus Jacobsen.
+
+[Download the dataset from Kaggle](https://www.kaggle.com/datasets/rmjacobsen/property-listings-for-5-south-american-countries)
+
 This project uses the **Property Listings for 5 South American Countries** dataset, containing historical real estate listings from Properati.
 
 ## Source Files
