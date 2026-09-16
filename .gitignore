@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw and processed datasets
+data/raw/*.csv
+data/processed/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Internal project notes
+project_notes.md
