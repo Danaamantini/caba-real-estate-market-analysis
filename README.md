@@ -2,7 +2,7 @@
 
 A data analysis project exploring apartment listings in Buenos Aires (CABA) to identify market patterns, attractive acquisition segments, and listings that may require pricing review.
 
-![Interactive CABA Apartment Market Dashboard](dashboard/caba_apartment_market_dashboard.gif)
+![Interactive CABA Apartment Market Dashboard](dashboard/caba-real-estate-dashboard-demo.gif)
 
 ## Business Problem
 
